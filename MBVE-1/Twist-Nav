@@ -1,0 +1,6 @@
+This version is the first version.
+In this Multi-Browser Desktop VR, navigation uses standard computer peripherals (computer mouse, keyboard, and monitor).
+The player mode is 3D mode and 2D mode.
+In the 3D mode, the player can explore the entire virtual environment.
+In the 2D mode, the player can focus on one web browser.
+In this first version, the navigation focused on using a computer mouse. Holding the middle click (mouse roller) rotates the player, and holding the right click moves the player inside the virtual environment.
